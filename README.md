@@ -5,7 +5,9 @@ This is a DBMS Online Retail Store Project which consist of both front-end and b
 The Front-end is made using PHP HTML and CSSS. MySQL is used for database. We have also used the Apache HTTP Server for making local website.
 
 ## How To Run
-Install Xampp (https://www.apachefriends.org/index.html) and copy the folder in the xampp directory. Run the Apache server and select the index.php from the folder , the website will run.
+Install Xampp (https://www.apachefriends.org/index.html) and copy the folder in the xampp directory. Run the Apache server and select the index.php from the folder.
+
+Now Import the Datbase using the SQL datadump through the mysql workbench ,the website will run.
 
 ## Relevant Screenshots
 ![Screenshot (425)](https://user-images.githubusercontent.com/88393756/170465740-f54e1c8f-f3ec-43d6-be0d-42a58b1b0917.png)
