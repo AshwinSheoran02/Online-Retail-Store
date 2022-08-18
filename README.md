@@ -15,3 +15,5 @@ Now Import the Datbase using the SQL datadump through the mysql workbench ,the w
 ![Screenshot (421)](https://user-images.githubusercontent.com/88393756/170465774-2806c420-2dd7-4f76-b640-bb6e37c23a9b.png)
 ![Screenshot (432)](https://user-images.githubusercontent.com/88393756/170465786-2fc72fa0-c801-4f71-b8b6-f24e5940c4dd.png)
 ![Screenshot (433)](https://user-images.githubusercontent.com/88393756/170465799-9fcf09c5-6fac-4412-8a5e-30f2577b8458.png)
+
+Made By Ashwin Sheoran , Hashit Garg , harsh Goyal and Meghna
